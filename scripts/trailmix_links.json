@@ -1,0 +1,130 @@
+[
+  {
+    "text": "complete",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/trailhead_basics?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "complete",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/starting_force_com?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Lightning Experience Customization",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/lex_customization?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Data Modeling",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/data_modeling?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Picklist Administration",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/picklist_admin?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Duplicate Management",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/sales_admin_duplicate_management?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Customize a Salesforce Object",
+    "href": "https://trailhead.salesforce.com/content/learn/projects/customize-a-salesforce-object?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Formulas and Validations",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/point_click_business_logic?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Improve Data Quality for a Recruiting App",
+    "href": "https://trailhead.salesforce.com/content/learn/projects/improve-data-quality-for-a-recruiting-app?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Customize the User Interface for a Recruiting App",
+    "href": "https://trailhead.salesforce.com/content/learn/projects/customize-the-ui-for-a-recruiting-app?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Flow Builder Basics",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/flow-basics?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Create a Screen Flow That Checks for Duplicates",
+    "href": "https://trailhead.salesforce.com/content/learn/projects/build-a-simple-flow?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Screen Flows",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/screen-flows?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Lightning App Builder",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/lightning_app_builder?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Approve Records with Approval Processes",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/business_process_automation?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Automate Business Processes for a Recruiting App",
+    "href": "https://trailhead.salesforce.com/content/learn/projects/automate-business-processes-recruiting-app?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Build a Discount Approval Process",
+    "href": "https://trailhead.salesforce.com/content/learn/projects/build-a-discount-approval-process?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Quick Start: Lightning App Builder",
+    "href": "https://trailhead.salesforce.com/content/learn/projects/quickstart-app-builder?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Data Management",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/lex_implementation_data_management?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Event Monitoring",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/event_monitoring?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Data Security",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/data_security?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Keep Data Secure in a Recruiting App",
+    "href": "https://trailhead.salesforce.com/content/learn/projects/keep-data-secure-in-a-recruiting-app?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Shield Platform Encryption",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/spe_admins?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "API Basics",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/pw-api-basics?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "360 Platform API Basics",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/api_basics?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Apex Basics for Admins",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "SOQL for Admins",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/soql-for-admins?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Apex Triggers",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/apex_triggers?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Apex Testing",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/apex_testing?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Asynchronous Apex",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/asynchronous_apex?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Apex Integration Services",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/apex_integration_services?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  },
+  {
+    "text": "Leads and Opportunities",
+    "href": "https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience?trailmix_creator_id=trjha3&trailmix_slug=salesforce-developer-catalyst-v-3-0"
+  }
+]
