@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Nontechnical_Position</fullName>
+    <active>true</active>
+    <description>Use this record type for nontechnical positions only.</description>
+    <label>Nontechnical Position</label>
+    <picklistValues>
+        <picklist>Department__c</picklist>
+        <values>
+            <fullName>Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Sales</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Support</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
