@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Pay_Grade__c</fullName>
+    <label>Pay Grade</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>false</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value><fullName>S-100</fullName><default>false</default><label>S-100</label></value>
+            <value><fullName>S-200</fullName><default>false</default><label>S-200</label></value>
+            <value><fullName>S-300</fullName><default>false</default><label>S-300</label></value>
+            <value><fullName>S-400</fullName><default>false</default><label>S-400</label></value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
