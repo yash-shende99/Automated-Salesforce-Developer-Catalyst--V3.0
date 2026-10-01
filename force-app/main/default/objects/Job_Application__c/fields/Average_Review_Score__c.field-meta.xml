@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Average_Review_Score__c</fullName>
+    <description>Average Review Score</description>
+    <inlineHelpText></inlineHelpText>
+    <externalId>false</externalId>
+    <formula>IF(Number_of_Reviews__c &lt;&gt; 0, Total_Review_Score__c / Number_of_Reviews__c, null)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Average Review Score</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <precision>18</precision>
+    <scale>2</scale>
+    <unique>false</unique>
+</CustomField>
