@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Interviewer__c</fullName>
+    <externalId>false</externalId>
+    <label>Interviewer</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <referenceTo>User</referenceTo>
+    <relationshipLabel>Interviewer</relationshipLabel>
+    <relationshipName>Interviewers</relationshipName>
+    <trackFeedHistory>true</trackFeedHistory>
+</CustomField>
