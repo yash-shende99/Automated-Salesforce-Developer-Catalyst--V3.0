@@ -1,0 +1,112 @@
+[
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/soql-for-admins/get-started-with-soql-queries",
+    "slug": "get-started-with-soql-queries",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "Which two clauses are required in a SOQL query?",
+          "options": [
+            "SELECT and WHERE",
+            "FROM and LIMIT",
+            "SELECT and FROM",
+            "FROM and AND"
+          ]
+        },
+        {
+          "question": "Which query returns results for a specific account name?",
+          "options": [
+            "SELECT ID, Name FROM Account WHERE ID = '0011000002c0h0i0AC'",
+            "SELECT ID, Name FROM Account WHERE Name = 'ACME Inc'",
+            "SELECT ID, Name FROM Account LIMIT 1",
+            "SELECT ID, Name FROM Contact WHERE Name = 'Rebecca Flores'"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/soql-for-admins/create-soql-queries-in-apex-classes",
+    "slug": "create-soql-queries-in-apex-classes",
+    "data": {
+      "type": "assessment",
+      "title": "Create a for loop to iterate through a SOQL query",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/soql-for-admins/create-relationship-queries-with-standard-objects",
+    "slug": "create-relationship-queries-with-standard-objects",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "Which query returns the priority and related contact name for a case?",
+          "options": [
+            "SELECT Name, Priority FROM Case",
+            "SELECT Priority, (SELECT Name FROM Contact) FROM Case",
+            "SELECT Contact.Name, Priority FROM Case",
+            "SELECT Name, Priority FROM Contact"
+          ]
+        },
+        {
+          "question": "True or false: To query a child object and get fields from the parent object, use a subquery.",
+          "options": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/soql-for-admins/create-relationship-queries-with-custom-objects",
+    "slug": "create-relationship-queries-with-custom-objects",
+    "data": {
+      "type": "assessment",
+      "title": " Create a Relationship Query",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/soql-for-admins/use-bind-variables-and-aggregate-functions",
+    "slug": "use-bind-variables-and-aggregate-functions",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "Which punctuation identifies a bind variable in a query?",
+          "options": [
+            ".",
+            ":",
+            "<>",
+            "[]"
+          ]
+        },
+        {
+          "question": "Which SOQL query returns the highest priced home in each city?",
+          "options": [
+            "SELECT COUNT_DISTINCT(Address__c),Price__c FROM Property__c GROUP BY City__c",
+            "SELECT COUNT_DISTINCT(Price__c), City__c FROM Property__c Group BY City__c",
+            "SELECT MAX(Price__c), City__c FROM Property__c Group BY City__c",
+            "SELECT MAX(City__c), Price__c FROM Property__c"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  }
+]
