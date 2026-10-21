@@ -1,0 +1,91 @@
+[
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/pw-api-basics/make-apis-for-you-and-me",
+    "slug": "make-apis-for-you-and-me",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "An API is the machine equivalent to a:\n",
+          "options": [
+            "Server\n",
+            "Personal computer\n",
+            "User interface\n",
+            "Set of instructions\n"
+          ]
+        },
+        {
+          "question": "What is a common usage of APIs?\n",
+          "options": [
+            "Ordering groceries for your home.\n",
+            "Walking your dog.\n",
+            "Displaying restaurant reviews based on your location.\n",
+            "A and B\n",
+            "A and C\n"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/pw-api-basics/learn-the-benefits-of-apis",
+    "slug": "learn-the-benefits-of-apis",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "To retrieve, submit, update, or delete data in a data store you must use HTTP verbs. What are the names of those verbs, respectively?",
+          "options": [
+            "GIVE, GET, SMILE, REPEAT",
+            "GET, POST, PUT, DELETE",
+            "POST, GET, DELETE, PLACE",
+            "BUY, SELL, HOLD, INVEST"
+          ]
+        },
+        {
+          "question": "What is abstraction?",
+          "options": [
+            "A post-modern style popular among European artists.",
+            "A form of artificial intelligence that develops complex human thoughts.",
+            "A way for applications to retrieve data without having to directly engage with the source system's logic.",
+            "A way for APIs to talk to one another."
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/pw-api-basics/put-the-web-in-web-api",
+    "slug": "put-the-web-in-web-api",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "True or false: When creating APIs you are limited to one application per endpoint.\n",
+          "options": [
+            "True\n",
+            "False\n"
+          ]
+        },
+        {
+          "question": "What is a streaming API?\n",
+          "options": [
+            "It’s a method to request information from across an entire graph of data at once.\n",
+            "APIs that are all about brooks, rivers, and tunnels.\n",
+            "A type of API that checks for updated data within time increments to send data to the consuming application.\n",
+            "A type of API that sends data to the consuming application as soon as that data is updated or becomes available.\n"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  }
+]
