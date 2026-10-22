@@ -1,0 +1,85 @@
+[
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience/create-and-convert-leads-lightning",
+    "slug": "create-and-convert-leads-lightning",
+    "data": {
+      "type": "assessment",
+      "title": "Create and Convert Leads",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience/work-your-opportunities",
+    "slug": "work-your-opportunities",
+    "data": {
+      "type": "assessment",
+      "title": "Create an Opportunity and Contact Role",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience/sell-as-a-team-and-split-the-credit",
+    "slug": "sell-as-a-team-and-split-the-credit",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "Which of the following can you expect from opportunity teams?",
+          "options": [
+            "They form long-term relationships with customers",
+            "They share information, tips, or contacts that help close the deal",
+            "They split credit equally on opportunities",
+            "B and C"
+          ]
+        },
+        {
+          "question": "What type of split do you use to credit a supporting team member who wasn’t directly responsible for the revenue on an opportunity?",
+          "options": [
+            "None",
+            "A revenue split",
+            "An overlay split",
+            "An opportunity product split"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience/visualize-success-with-path-and-kanban",
+    "slug": "visualize-success-with-path-and-kanban",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "Which of these actions isn’t a valid way to update the status of a lead?\n",
+          "options": [
+            "In Path, click Mark Status as Complete.\n",
+            "Click the desired step on the Path, then click Mark Current Status. View the Lead Record, click Edit, and change the Status field.\n",
+            "Change the Kanban settings Group By to status. Drag the record to a different column.\n",
+            "In any list view, click Shuffle to change up every record’s status.\n"
+          ]
+        },
+        {
+          "question": "You have a dozen open opportunities from different companies. But when you check the Kanban view of your All Open Opportunities list, you only see opportunities for one account. What should you do?\n",
+          "options": [
+            "Panic!\n",
+            "Select a different list view, such as Recently Viewed.\n",
+            "Check the filter panel to see if records are being filtered out.\n",
+            "Use the search box to search for the opportunities that went missing.\n",
+            "Try to attract more opportunities by leaving a bowl of candy on your desk overnight.\n"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  }
+]
