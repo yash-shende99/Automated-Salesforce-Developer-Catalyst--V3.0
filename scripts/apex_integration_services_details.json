@@ -1,0 +1,46 @@
+[
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex_integration_services/apex_integration_callouts",
+    "slug": "apex_integration_callouts",
+    "data": {
+      "type": "assessment",
+      "title": "Be sure Remote Site Settings have been added",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex_integration_services/apex_integration_rest_callouts",
+    "slug": "apex_integration_rest_callouts",
+    "data": {
+      "type": "assessment",
+      "title": "Create an Apex class that calls a REST endpoint and write a test class.",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex_integration_services/apex_integration_soap_callouts",
+    "slug": "apex_integration_soap_callouts",
+    "data": {
+      "type": "assessment",
+      "title": "Generate an Apex class using WSDL2Apex and write a test class.",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex_integration_services/apex_integration_webservices",
+    "slug": "apex_integration_webservices",
+    "data": {
+      "type": "assessment",
+      "title": "Create an Apex REST service that returns an account and its contacts.",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  }
+]
