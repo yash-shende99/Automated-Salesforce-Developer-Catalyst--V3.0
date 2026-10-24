@@ -1,0 +1,57 @@
+[
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins/get-started-with-apex",
+    "slug": "get-started-with-apex",
+    "data": {
+      "type": "assessment",
+      "title": "",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins/practice-in-the-developer-console",
+    "slug": "practice-in-the-developer-console",
+    "data": {
+      "type": "assessment",
+      "title": "",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins/use-collections",
+    "slug": "use-collections",
+    "data": {
+      "type": "assessment",
+      "title": "",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins/control-data-flow",
+    "slug": "control-data-flow",
+    "data": {
+      "type": "assessment",
+      "title": "",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex-basics-for-admins/use-loops",
+    "slug": "use-loops",
+    "data": {
+      "type": "assessment",
+      "title": "",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  }
+]
