@@ -1,0 +1,84 @@
+[
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/api_basics/api_basics_overview",
+    "slug": "api_basics_overview",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "REST API is best suited for which of these use cases?",
+          "options": [
+            "Loading lots of data into your org for the first time",
+            "Writing a mobile or web app",
+            "Deleting 100,000 records at once",
+            "Pushing notifications whenever data is changed"
+          ]
+        },
+        {
+          "question": "Bulk API is best suited for which of these use cases?",
+          "options": [
+            "Deleting several records, one record at a time",
+            "Writing a mobile chat app",
+            "Building a new Salesforce UI",
+            "Deleting 100,000 records at once"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/api_basics/api_basics_rest",
+    "slug": "api_basics_rest",
+    "data": {
+      "type": "assessment",
+      "title": "Create a New Account Record with REST API",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/api_basics/api_basics_bulk",
+    "slug": "api_basics_bulk",
+    "data": {
+      "type": "assessment",
+      "title": "Import Accounts Using Bulk API and Postman",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/api_basics/api_basics_streaming",
+    "slug": "api_basics_streaming",
+    "data": {
+      "type": "quiz",
+      "title": "",
+      "questions": [
+        {
+          "question": "With Pub/Sub API, you can:",
+          "options": [
+            "Publish and subscribe to binary event messages",
+            "Only subscribe to event messages in JSON format",
+            "Insert Salesforce records",
+            "Write code from the crow's nest of a pirate ship"
+          ]
+        },
+        {
+          "question": "What are platform events?",
+          "options": [
+            "Data change notifications sent from Salesforce.",
+            "Custom notifications with a schema that you define by creating platform event objects and fields.",
+            "Generic notifications with a text body.",
+            "The event bus"
+          ]
+        }
+      ],
+      "completed": false,
+      "points": 100
+    }
+  }
+]
