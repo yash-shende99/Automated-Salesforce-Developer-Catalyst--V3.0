@@ -1,0 +1,32 @@
+{
+  "get-started-with-apex": {
+    "type": "assessment",
+    "title": "",
+    "description": "",
+    "requirements": []
+  },
+  "practice-in-the-developer-console": {
+    "type": "assessment",
+    "title": "",
+    "description": "",
+    "requirements": []
+  },
+  "use-collections": {
+    "type": "assessment",
+    "title": "",
+    "description": "",
+    "requirements": []
+  },
+  "control-data-flow": {
+    "type": "assessment",
+    "title": "",
+    "description": "",
+    "requirements": []
+  },
+  "use-loops": {
+    "type": "assessment",
+    "title": "",
+    "description": "",
+    "requirements": []
+  }
+}
