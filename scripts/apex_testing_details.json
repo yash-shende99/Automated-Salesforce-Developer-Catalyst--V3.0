@@ -1,0 +1,35 @@
+[
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex_testing/apex_testing_intro",
+    "slug": "apex_testing_intro",
+    "data": {
+      "type": "assessment",
+      "title": "Create a Unit Test for a Simple Apex Class",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex_testing/apex_testing_triggers",
+    "slug": "apex_testing_triggers",
+    "data": {
+      "type": "assessment",
+      "title": "Create a Unit Test for a Simple Apex Trigger",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  },
+  {
+    "unitUrl": "https://trailhead.salesforce.com/content/learn/modules/apex_testing/apex_testing_data",
+    "slug": "apex_testing_data",
+    "data": {
+      "type": "assessment",
+      "title": "Create a Contact Test Factory",
+      "questions": [],
+      "completed": false,
+      "points": 500
+    }
+  }
+]
